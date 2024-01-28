@@ -22,7 +22,7 @@ from sklearn.compose import ColumnTransformer
 plt.ion()
 
 # Load the dataset from the CSV file
-diamonds = pd.read_csv("C:\\Users\\User\\Desktop\\My Lessons\\dei computer science\\AI Artificial Inteligence\\assignments\\AI assignment\\archive\\diamonds.csv")
+diamonds = pd.read_csv("")
 
 # Function to perform clustering and return clustered data
 def perform_clustering(features, num_clusters):
